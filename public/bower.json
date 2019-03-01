@@ -17,8 +17,9 @@
   ],
   "dependencies": {
     "note-app-elements": "polymerlabs/note-app-elements#^2.1.2",
-    "platinum-push-messaging": "googlearchive/platinum-push-messaging#^1.0.5",
+    "platinum-push-messaging": "PolymerElements/platinum-push-messaging#^1.0.5",
     "polymerfire": "FirebaseExtended/polymerfire#^2.2.1",
-    "shadycss": "webcomponents/shadycss#^v1.1.0"
+    "shadycss": "webcomponents/shadycss#^v1.1.0",
+    "platinum-sw": "PolymerElements/platinum-sw#^2.1.0"
   }
 }

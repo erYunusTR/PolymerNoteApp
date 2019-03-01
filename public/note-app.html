@@ -1,6 +1,7 @@
 <link rel="import" href="bower_components/note-app-elements/na-elements.html">
 <link rel="import" href="bower_components/app-storage/app-indexeddb-mirror/app-indexeddb-mirror.html">
 <link rel="import" href="bower_components/polymerfire/polymerfire.html">
+<link rel="import" href="bower_components/platinum-push-messaging/platinum-push-messaging.html">
 
 
 <dom-module id="note-app">
@@ -73,9 +74,9 @@
             </template>
         </div>
 
-        <platinum-push-messaging
-                message-url="notification-data.json">
-        </platinum-push-messaging>
+        <paper-foo></paper-foo>
+
+        <platinum-push-messaging></platinum-push-messaging>
 
     </template>
 
