@@ -1,0 +1,24 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/erYunusTR/PolymerNoteApp",
+  "authors": [
+    "yer <yer@hotech.systems>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "note-app-elements": "polymerlabs/note-app-elements#^2.1.2",
+    "platinum-push-messaging": "googlearchive/platinum-push-messaging#^1.0.5",
+    "polymerfire": "FirebaseExtended/polymerfire#^2.2.1",
+    "shadycss": "webcomponents/shadycss#^v1.1.0"
+  }
+}
