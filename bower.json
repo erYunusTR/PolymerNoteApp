@@ -1,0 +1,21 @@
+{
+  "name": "noteapp",
+  "homepage": "https://github.com/erYunusTR/PolymerNoteApp",
+  "authors": [
+    "yer <yer@hotech.systems>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "platinum-push-messaging": "googlearchive/platinum-push-messaging#^1.0.5"
+  }
+}
