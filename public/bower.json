@@ -20,6 +20,7 @@
     "platinum-push-messaging": "PolymerElements/platinum-push-messaging#^1.0.5",
     "polymerfire": "FirebaseExtended/polymerfire#^2.2.1",
     "shadycss": "webcomponents/shadycss#^v1.1.0",
-    "platinum-sw": "PolymerElements/platinum-sw#^2.1.0"
+    "platinum-sw": "PolymerElements/platinum-sw#^2.1.0",
+    "paper-toggle-button": "PolymerElements/paper-toggle-button#^3.0.1"
   }
 }
